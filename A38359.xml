@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas by a former order of the second of Iuly last, it was directed, that in respect of the necessity of perfecting the fortifications of this garrison, all strangers, inhabitants, and resiant within this university and city, being above the age of sixteene, (except such as should be upon the guards) should upon the foure severall dayes therein appointed, worke at the said fortifications, behind Christ-Church</title>
+            <author>England and Wales. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38359</idno>
+            <idno type="STC">Wing E2920</idno>
+            <idno type="STC">ESTC R40509</idno>
+            <idno type="EEBO-CITATION">19341986</idno>
+            <idno type="OCLC">ocm 19341986</idno>
+            <idno type="VID">108731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38359)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108731)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1668:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas by a former order of the second of Iuly last, it was directed, that in respect of the necessity of perfecting the fortifications of this garrison, all strangers, inhabitants, and resiant within this university and city, being above the age of sixteene, (except such as should be upon the guards) should upon the foure severall dayes therein appointed, worke at the said fortifications, behind Christ-Church</title>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>By Leonard Li[chfield] ...,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>16[45]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to the Privy Council by Wing.</note>
+                  <note>Part of imprint suggested by Wing.</note>
+                  <note>Imperfect: torn with some loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Garrisons, British --  History --  17th century.</term>
+               <term>Great Britain --  History, Military --  1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:108731:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <opener>
+               <dateline>
+                  <hi>OXFORD,</hi> 
+                  <date>this 19<hi rend="sup">th</hi> of <hi>Auguſt,</hi> 1645.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS by a former Order of the ſecond of <hi>Iuly</hi> laſt, it was directed, That in reſpect of the neceſſity of perfect<g ref="char:EOLhyphen"/>ing the Fortifications of this Garriſon, all Strangers, Inha<g ref="char:EOLhyphen"/>bitants, and reſiant within this Vniverſity and City, being above the age of ſixteene, (except ſuch as ſhould be upon the Guards) ſhould upon the foure ſeverall dayes therein appointed, worke at the ſaid Fortifications, behind <hi>Christ-Church;</hi> or in default thereof, find one ſufficient able perſon to labour for him, or ſend towards providing other La<g ref="char:EOLhyphen"/>bourers for every ſuch Perſon, other then Servants, twelve pence, and for Servants, ſixe pence. To which Order, very many of the ſaid Strangers (Inhabitants) did not conforme themſelves, upon pretence they had no notice thereof. It is therefore now Ordered, and for avoyding all excuſe whatſoever; The Governour is hereby deſired to give directions, that by ſound of Drumme, and alſo by the Bell-man, notice be given to all the ſaid Strangers Inhabiting, and Lodgers within the ſaid Vniverſity and City, above ſixteene yeares of age, and except ſuch as are upon the Guards, or as have ſince the date of the former Order worked at the Fortifications upon the North line. That upon Thurſday next, being the 21<hi rend="sup">th</hi> of this inſtant <hi>August,</hi> by ſeven of the Clock in the morning of the ſame day, they re<g ref="char:EOLhyphen"/>paire to the Meadowes at <hi>Christ-Church,</hi> there to worke upon the ſaid Fortifications, and ſo to continue all that day, at the uſuall houres; and ſo to worke three other dayes, <hi>viz.</hi> on Friday, Saturday, and Munday then next following: And (according to the directions in the former Order) that in default thereof, every ſuch Perſon find one ſufficient able perſon to labour for him; or then ſend towards the providing of other Labourers for every ſuch Perſon, other Servants, twelve pence, and Servants, ſix pence. And order ſhall be given, for taking the names of all ſuch as doe worke; And thoſe who ſhall not worke, or ſend others in their places, are required to pay their money at the Audit Houſe in <hi>Christ-Church,</hi> before eight every morning, where Mr <hi>Dugdale</hi> is appointed to attend and receive the ſame, whereby others may be hired <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o labour in their places. And whoſoever ſhall be diſcovered, either to be abſent him<g ref="char:EOLhyphen"/>ſelfe, or neglect to ſend another in his roome, or money for providing of another (where the neceſſity is ſo great) muſt both expect to have theſe Rates herein me<gap reason="illegible: damage" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ned doubly leaved upon him; Beſides, to be looked upon, as Perſons not de<gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he protection of the Garriſon.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Cottington.</item>
+                     <item>F. Seymour.</item>
+                     <item>Hertford.</item>
+                     <item>Chr. Hatton.</item>
+                     <item>Ch<gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                     <item>Ed. <gap reason="illegible: damage" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at OXFORD, by LEONARD LI<gap reason="illegible: damage" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap> 
+               <hi>Printer to the <g ref="char:V">Ʋ</g>niverſity.</hi> 16<gap reason="illegible: damage" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
